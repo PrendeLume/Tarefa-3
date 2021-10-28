@@ -12,6 +12,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         <?php
         // put your code here
         // primer cambio
+        // segundo cambio random
         ?>
     </body>
 </html>
